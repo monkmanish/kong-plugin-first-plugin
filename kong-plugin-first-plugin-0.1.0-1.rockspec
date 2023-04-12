@@ -1,6 +1,6 @@
 local plugin_name = "first-plugin"
 local package_name = "kong-plugin-" .. plugin_name
-local package_version = "0.1.0"
+local package_version = "m-0.1.0"
 local rockspec_revision = "1"
 
 local github_account_name = "monkmanish"
